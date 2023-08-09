@@ -29,7 +29,7 @@ requests==2.31.0
 # Flask
 # License: BSD
 # Upstream url: http://github.com/mitsuhiko/flask/
-Flask==0.10.1
+Flask==2.2.5
 
 # Support for writing external scripts in Flask
 # License: BSD 3-Clause
